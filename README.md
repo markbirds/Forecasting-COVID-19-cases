@@ -2,7 +2,7 @@
 
 ### Dataset
 ```
-https://www.kaggle.com/mwallerphunware/imbd-movie-reviews-for-binary-sentiment-analysis
+https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university
 ```
 
 ### License
